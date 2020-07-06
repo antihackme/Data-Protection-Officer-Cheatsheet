@@ -10,14 +10,12 @@
 # Table
 
 <table>
-  <th>
-    <tr>
-      <td>Heading 1</td>
-      <td>Heading 2</td>
-      <td>Heading 3</td>
-      <td>Heading 4</td>
-    </tr>
-  </th>
+  <tr>
+     <th>Heading 1</th>
+     <th>Heading 2</th>
+     <th>Heading 3</th>
+     <th>Heading 4</th>
+  </tr>
   <tr>
     <td>Content A</td>
     <td>Sample A</td>
