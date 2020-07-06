@@ -6,3 +6,20 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 # Contents
 * [Sample 1](/README.md#data-protection-cheat-sheet)
 * Sample 2
+
+# Table
+
+<table>
+  <tr>
+    <td>Content A</td>
+    <td>Sample A</td>
+  </tr>
+  <tr>
+    <td>Content B</td>
+    <td>Sample B</td>
+  </tr>
+  <tr>
+    <td>Content C</td>
+    <td>Sample C</td>
+  </tr>
+</table>
