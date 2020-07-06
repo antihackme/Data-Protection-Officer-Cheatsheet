@@ -11,10 +11,12 @@
 
 <table>
   <th>
-    <td>Heading 1</td>
-    <td>Heading 2</td>
-    <td>Heading 3</td>
-    <td>Heading 4</td>
+    <tr>
+      <td>Heading 1</td>
+      <td>Heading 2</td>
+      <td>Heading 3</td>
+      <td>Heading 4</td>
+    </tr>
   </th>
   <tr>
     <td>Content A</td>
