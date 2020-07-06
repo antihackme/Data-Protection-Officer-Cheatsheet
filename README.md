@@ -43,6 +43,20 @@
 
 # Articles
 
+## Privacy
+<p align="justify">Mauris fringilla lectus in luctus porttitor. Vestibulum ornare magna vitae tellus vulputate, at placerat massa dignissim. Phasellus imperdiet eget ipsum vitae dictum. Curabitur suscipit leo ut erat iaculis volutpat. Etiam viverra, dolor nec volutpat hendrerit, eros odio condimentum tortor, in dignissim urna ipsum nec elit. Ut dictum varius placerat. Donec id vestibulum quam, in suscipit sem. Integer ut risus faucibus, euismod mauris consectetur, euismod erat. Nulla sem orci, eleifend ut tincidunt non, vehicula sed velit. Vivamus gravida dolor sed lorem laoreet condimentum. Quisque volutpat, risus ut elementum suscipit, risus risus dignissim enim, id egestas massa sem id sem. Etiam congue tortor nulla, sit amet accumsan justo fermentum id.</p>
+
+```
+Articles are easy to read.
+```
+
+## Notices
+<p align="justify">Mauris fringilla lectus in luctus porttitor. Vestibulum ornare magna vitae tellus vulputate, at placerat massa dignissim. Phasellus imperdiet eget ipsum vitae dictum. Curabitur suscipit leo ut erat iaculis volutpat. Etiam viverra, dolor nec volutpat hendrerit, eros odio condimentum tortor, in dignissim urna ipsum nec elit. Ut dictum varius placerat. Donec id vestibulum quam, in suscipit sem. Integer ut risus faucibus, euismod mauris consectetur, euismod erat. Nulla sem orci, eleifend ut tincidunt non, vehicula sed velit. Vivamus gravida dolor sed lorem laoreet condimentum. Quisque volutpat, risus ut elementum suscipit, risus risus dignissim enim, id egestas massa sem id sem. Etiam congue tortor nulla, sit amet accumsan justo fermentum id.</p>
+
+### How to Write
+<p align="justify">Mauris fringilla lectus in luctus porttitor. Vestibulum ornare magna vitae tellus vulputate, at placerat massa dignissim. Phasellus imperdiet eget ipsum vitae dictum. Curabitur suscipit leo ut erat iaculis volutpat. Etiam viverra, dolor nec volutpat hendrerit, eros odio condimentum tortor, in dignissim urna ipsum nec elit. Ut dictum varius placerat. Donec id vestibulum quam, in suscipit sem. Integer ut risus faucibus, euismod mauris consectetur, euismod erat. Nulla sem orci, eleifend ut tincidunt non, vehicula sed velit. Vivamus gravida dolor sed lorem laoreet condimentum. Quisque volutpat, risus ut elementum suscipit, risus risus dignissim enim, id egestas massa sem id sem. Etiam congue tortor nulla, sit amet accumsan justo fermentum id.</p>
+
+### How to Read
 <p align="justify">Mauris fringilla lectus in luctus porttitor. Vestibulum ornare magna vitae tellus vulputate, at placerat massa dignissim. Phasellus imperdiet eget ipsum vitae dictum. Curabitur suscipit leo ut erat iaculis volutpat. Etiam viverra, dolor nec volutpat hendrerit, eros odio condimentum tortor, in dignissim urna ipsum nec elit. Ut dictum varius placerat. Donec id vestibulum quam, in suscipit sem. Integer ut risus faucibus, euismod mauris consectetur, euismod erat. Nulla sem orci, eleifend ut tincidunt non, vehicula sed velit. Vivamus gravida dolor sed lorem laoreet condimentum. Quisque volutpat, risus ut elementum suscipit, risus risus dignissim enim, id egestas massa sem id sem. Etiam congue tortor nulla, sit amet accumsan justo fermentum id.</p>
 
 # Links
