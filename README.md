@@ -17,9 +17,17 @@
 
 # Data Protection
 
-## Register the Data Protection Officer (DPO)
+## Register your Data Protection Officer (DPO)
 [How to Register Data Protection Officer (DPO) in ACRA Bizfile+](https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">Previously, organizations could register Data Protection Officers directly with the Personal Data Protection Committee (PDPC) via an online web form.</p>
 
+## Personal Data Protection Act (PDPA)
+[Overview of the Personal Data Protection Act – SG](https://www.privacy.com.sg/resources/overview-of-the-personal-data-protection-act-singapore/)<p align="justify">The Personal Data Protection Act 2012 (PDPA) governs the collection, use and disclosure of personal data. The PDPA was passed by Parliament in October 2012 and was progressively enforced in several stages from January 2013 till July 2014.</p>
+
+[The FREE Guide To The 9 Obligations Of PDPA](https://www.privacy.com.sg/resources/9-obligations-of-pdpa/)<p align="justify">Organisations are required to comply to the Personal Data Protection Act (PDPA) especially the 9 Obligations of PDPA when collecting, using or disclosing personal data.</p>
+
+### Read On
+* [FREE! PDPA Singapore Checklist 2020](https://www.privacy.com.sg/resources/pdpa-singapore-checklist/)
+* [FREE! Guide For Appointing A Data Protection Officer (2020)](https://www.privacy.com.sg/resources/appointing-a-data-protection-officer/)
 
 # Privacy Policy
 
@@ -30,6 +38,9 @@
 
 ## Hacked Databases
 [Hacker Extorts Online Shops, Sells Databases If Ransom Not Paid](https://www.privacy.com.sg/cybersecurity/hacker-extorts-online-shops-sells-databases-if-ransom-not-paid/)<p align="justify">More than two dozen SQL databases stolen from online shops in various countries are being offered for sale on a public website. In total, the seller provides over 1.5 million rows of records but the amount of stolen data is much larger.</p>
+
+## Do Not Call Registry
+[How does Do Not Call (DNC Registry) Affect Marketing 2020](https://www.privacy.com.sg/resources/dnc-registry/)<p align="justify">Nowadays, it is hard to find anyone without access to a phone, hence many businesses continue to rely on telemarketing and cold calling as a means of prospecting customers.</p>
 
 # COVID-19 and The New Normal
 
