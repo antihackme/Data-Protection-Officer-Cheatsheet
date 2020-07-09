@@ -9,7 +9,7 @@
 * [Data Protection](/README.md#data-protection)
 * [Privacy Policy](/README.md#privacy-policy)
 * [Worthy Articles About Cybersecurity](/README.md#worthy-articles-about-cybersecurity)
-* [FREE! PDPA Compliance Check](/README.md#pdpa-compliance-check)
+* [FREE! PDPA Compliance Check](/README.md#pdpa-compliance-check--)
 
 
 
@@ -30,7 +30,7 @@
 ## Hacked Databases
 [Hacker Extorts Online Shops, Sells Databases If Ransom Not Paid](https://www.privacy.com.sg/cybersecurity/hacker-extorts-online-shops-sells-databases-if-ransom-not-paid/)<p align="justify">More than two dozen SQL databases stolen from online shops in various countries are being offered for sale on a public website. In total, the seller provides over 1.5 million rows of records but the amount of stolen data is much larger.</p>
 
-# PDPA Compliance Check
+# PDPA Compliance Check | <img width="100" src="https://www.antihack.me/public/demoassets/images/logo.png" alt="antihack">
 [FREE! PDPA Compliance Check](https://www.privacy.com.sg/resources/free-pdpa-compliance-checkup/)<p align="justify">Take a 3 minutes test to view the results of your PDPA compliance status and find out if your organization is at risk of suffering a data breach.</p>
 
 
