@@ -22,13 +22,13 @@
 
 # Privacy Policy
 
-## Register the Data Protection Officer (DPO)
-[How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">The PDPA is a complaints based regime, where the PDPC is obligated to follow up and investigate on every complaint made.</p>
+## Importance of a Compliant Privacy Policy
+[Importance of a Compliant Privacy Policy](https://www.privacy.com.sg/resources/free-privacy-policy-review/)<p align="justify">A Privacy Policy is not only the legally required document to disclose your practices on protecting personal information, but it also allows you to show both your internal and external stakeholders, customers and regulators that you can be trusted, and that you have procedures in place to handle their personal information with care.</p>
 
 # Worthy Articles About Cybersecurity
 
-## Register the Data Protection Officer (DPO)
-[How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">The PDPA is a complaints based regime, where the PDPC is obligated to follow up and investigate on every complaint made.</p>
+## Hacker Extorts Online Shops, Sells Databases If Ransom Not Paid
+[How to Register Data Protection Officer (DPO) in ACRA Bizfile+](https://www.privacy.com.sg/cybersecurity/hacker-extorts-online-shops-sells-databases-if-ransom-not-paid/)<p align="justify">More than two dozen SQL databases stolen from online shops in various countries are being offered for sale on a public website. In total, the seller provides over 1.5 million rows of records but the amount of stolen data is much larger.</p>
 
 
 
