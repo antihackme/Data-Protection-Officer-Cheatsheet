@@ -17,7 +17,7 @@
 # Data Protection
 
 ## Register the Data Protection Officer (DPO)
-[How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">Previously, organizations could register Data Protection Officers directly with the Personal Data Protection Committee (PDPC) via an online web form.</p>
+[How to Register Data Protection Officer (DPO) in ACRA Bizfile+](https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">Previously, organizations could register Data Protection Officers directly with the Personal Data Protection Committee (PDPC) via an online web form.</p>
 
 
 # Privacy Policy
