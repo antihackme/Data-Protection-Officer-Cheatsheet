@@ -32,6 +32,6 @@
 
 <h1 style="color:red;"> PDPA Compliance Check </h1>
 
-[FREE! PDPA Compliance Check](https://www.privacy.com.sg/resources/free-pdpa-compliance-checkup/)<p align="justify" style="color:red;">Take a 3 minutes test to view the results of your PDPA compliance status and find out if your organization is at risk of suffering a data breach.</p>
+[FREE! PDPA Compliance Check](https://www.privacy.com.sg/resources/free-pdpa-compliance-checkup/)<p style="color:blue;text-align:center;">Take a 3 minutes test to view the results of your PDPA compliance status and find out if your organization is at risk of suffering a data breach.</p>
 
 
