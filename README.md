@@ -8,7 +8,8 @@
 # Contents
 * [Data Protection](/README.md#data-protection)
 * [Privacy Policy](/README.md#privacy-policy)
-* [Worthy Articles About Cybersecurity](/README.md#worthy-articles-about-cybersecurity)
+* [Worthy Articles about Cybersecurity](/README.md#worthy-articles-about-cybersecurity)
+* [COVID-19 and The New Normal](/README.md#covid-19-and-the-new-normal)
 * [FREE! PDPA Compliance Check](/README.md#pdpa-compliance-check--)
 
 
@@ -25,10 +26,15 @@
 ## Compliant Privacy Policy
 [Importance of a Compliant Privacy Policy](https://www.privacy.com.sg/resources/free-privacy-policy-review/)<p align="justify">A Privacy Policy is not only the legally required document to disclose your practices on protecting personal information, but it also allows you to show both your internal and external stakeholders, customers and regulators that you can be trusted, and that you have procedures in place to handle their personal information with care.</p>
 
-# Worthy Articles About Cybersecurity
+# Worthy Articles about Cybersecurity
 
 ## Hacked Databases
 [Hacker Extorts Online Shops, Sells Databases If Ransom Not Paid](https://www.privacy.com.sg/cybersecurity/hacker-extorts-online-shops-sells-databases-if-ransom-not-paid/)<p align="justify">More than two dozen SQL databases stolen from online shops in various countries are being offered for sale on a public website. In total, the seller provides over 1.5 million rows of records but the amount of stolen data is much larger.</p>
+
+# COVID-19 and The New Normal
+
+## Free Masks
+[Razer Pay App Free Masks: Would You Exchange Your Data For A Piece Of Mask?](https://www.privacy.com.sg/privacy/razer-pay-app/)<p align="justify">This is definitely a brilliant marketing strategy by Razer Pay App to get user acquisition quickly and cheaply and to shortcut to quickly catch up with big players in the market such as Grab Pay.</p>
 
 # PDPA Compliance Check | <img width="100" src="https://www.antihack.me/public/demoassets/images/logo.png" alt="antihack">
 [FREE! PDPA Compliance Check](https://www.privacy.com.sg/resources/free-pdpa-compliance-checkup/)<p align="justify">Take a 3 minutes test to view the results of your PDPA compliance status and find out if your organization is at risk of suffering a data breach.</p>
