@@ -16,18 +16,18 @@
 
 # Data Protection
 
-## Register the Data Protection Officer(DPO)
+## Register the Data Protection Officer (DPO)
 [How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">The PDPA is a complaints based regime, where the PDPC is obligated to follow up and investigate on every complaint made.</p>
 
 
 # Privacy Policy
 
-## Register the Data Protection Officer(DPO)
+## Register the Data Protection Officer (DPO)
 [How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">The PDPA is a complaints based regime, where the PDPC is obligated to follow up and investigate on every complaint made.</p>
 
 # Worthy Articles About Cybersecurity
 
-## Register the Data Protection Officer(DPO)
+## Register the Data Protection Officer (DPO)
 [How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">The PDPA is a complaints based regime, where the PDPC is obligated to follow up and investigate on every complaint made.</p>
 
 
