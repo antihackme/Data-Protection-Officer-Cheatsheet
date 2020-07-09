@@ -6,13 +6,12 @@
 <p align="justify">This page compiles some of the most important and worthy articles and guide to read about Data Protection.</p>
 
 # Contents
-<table>
 * [Data Protection](/README.md#data-protection)
 * [Privacy Policy](/README.md#privacy-policy)
 * [Cybersecurity](/README.md#cybersecurity)
 * [COVID-19 and The New Normal](/README.md#covid-19-and-the-new-normal)
 * [FREE! PDPA Compliance Check](/README.md#pdpa-compliance-check--)
-</table>
+
 
 
 
