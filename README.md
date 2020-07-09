@@ -23,7 +23,7 @@
 ## Personal Data Protection Act (PDPA)
 [Overview of the Personal Data Protection Act – SG](https://www.privacy.com.sg/resources/overview-of-the-personal-data-protection-act-singapore/)<p align="justify">The Personal Data Protection Act 2012 (PDPA) governs the collection, use and disclosure of personal data. The PDPA was passed by Parliament in October 2012 and was progressively enforced in several stages from January 2013 till July 2014.</p>
 
-[The FREE Guide To The 9 Obligations Of PDPA](https://www.privacy.com.sg/resources/9-obligations-of-pdpa/)<p align="justify">Organisations are required to comply to the Personal Data Protection Act (PDPA) especially the 9 Obligations of PDPA when collecting, using or disclosing personal data.</p>
+[FREE! Guide To The 9 Obligations Of PDPA](https://www.privacy.com.sg/resources/9-obligations-of-pdpa/)<p align="justify">Organisations are required to comply to the Personal Data Protection Act (PDPA) especially the 9 Obligations of PDPA when collecting, using or disclosing personal data.</p>
 
 ### Read On
 * [FREE! PDPA Singapore Checklist 2020](https://www.privacy.com.sg/resources/pdpa-singapore-checklist/)
