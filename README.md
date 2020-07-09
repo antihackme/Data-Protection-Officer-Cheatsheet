@@ -35,6 +35,9 @@
 ## Compliant Privacy Policy
 [Importance of a Compliant Privacy Policy](https://www.privacy.com.sg/resources/free-privacy-policy-review/)<p align="justify">A Privacy Policy is not only the legally required document to disclose your practices on protecting personal information, but it also allows you to show both your internal and external stakeholders, customers and regulators that you can be trusted, and that you have procedures in place to handle their personal information with care.</p>
 
+## Do Not Call Registry
+[How does Do Not Call (DNC Registry) Affect Marketing 2020](https://www.privacy.com.sg/resources/dnc-registry/)<p align="justify">Nowadays, it is hard to find anyone without access to a phone, hence many businesses continue to rely on telemarketing and cold calling as a means of prospecting customers.</p>
+
 # Cybersecurity
 
 ## Hacked Databases
@@ -51,9 +54,6 @@
 * [High Severity Vulnerabilities in Cisco Webex Meetings Desktop Application](https://www.privacy.com.sg/softwareupdates/high-severity-vulnerabilities-in-cisco-webex-meetings-desktop-application/)
 * [‘Hey Siri, I’m getting pulled over’: iPhone Feature Will Record Police Interaction, Send Location](https://www.privacy.com.sg/softwareupdates/hey-siri-im-getting-pulled-over-iphone-feature-will-record-police-interaction-send-location/)
 
-
-## Do Not Call Registry
-[How does Do Not Call (DNC Registry) Affect Marketing 2020](https://www.privacy.com.sg/resources/dnc-registry/)<p align="justify">Nowadays, it is hard to find anyone without access to a phone, hence many businesses continue to rely on telemarketing and cold calling as a means of prospecting customers.</p>
 
 # COVID-19 and The New Normal
 
