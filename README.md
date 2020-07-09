@@ -3,48 +3,20 @@
 
 <p align="justify">The Personal Data Protection Act (2012) is Singapore’s data protection law governing the collection, use and disclosure of personal data belonging to individuals.  Section 11 of the Act states that an organization shall designate at least one individual, known as the Data Protection Officer, to be responsible for ensuring compliance with the Act, and to make available to the public the business contact information (BCI) of this person(s).</p>
 
+<p align="justify">This page compiles some of the most important and worthy articles and guide to read about Data Protection.</p>
+
 # Contents
-* [List 1](/README.md#data-protection-cheat-sheet--)
-* List 2
-* List 3
-* List 4
-* List 5
-* List 6
-* List 7
+* [Data Protection](/README.md#data-protection)
+* [Privacy Policy](/README.md#privacy-policy)
+* [FREE! PDPA Compliance Check](/README.md#pdpa-compliance-check)
 
-# Table
 
-<table>
-  <tr>
-     <th>Heading 1</th>
-     <th>Heading 2</th>
-     <th>Heading 3</th>
-     <th>Heading 4</th>
-  </tr>
-  <tr>
-    <td>Content A</td>
-    <td>Sample A</td>
-    <td>Priority A</td>
-    <td>Value A</td>
-  </tr>
-  <tr>
-    <td>Content B</td>
-    <td>Sample B</td>
-    <td>Priority B</td>
-    <td>Value B</td>
-  </tr>
-  <tr>
-    <td>Content C</td>
-    <td>Sample C</td>
-    <td>Priority C</td>
-    <td>Value C</td>
-  </tr>
-</table>
 
-# Articles
 
-## Privacy
-<p align="justify">Mauris fringilla lectus in luctus porttitor. Vestibulum ornare magna vitae tellus vulputate, at placerat massa dignissim. Phasellus imperdiet eget ipsum vitae dictum. Curabitur suscipit leo ut erat iaculis volutpat. Etiam viverra, dolor nec volutpat hendrerit, eros odio condimentum tortor, in dignissim urna ipsum nec elit. Ut dictum varius placerat. Donec id vestibulum quam, in suscipit sem. Integer ut risus faucibus, euismod mauris consectetur, euismod erat. Nulla sem orci, eleifend ut tincidunt non, vehicula sed velit. Vivamus gravida dolor sed lorem laoreet condimentum. Quisque volutpat, risus ut elementum suscipit, risus risus dignissim enim, id egestas massa sem id sem. Etiam congue tortor nulla, sit amet accumsan justo fermentum id.</p>
+# Data Protection
+
+## Register the Data Protection Officer(DPO)
+[How to Register Data Protection Officer (DPO) in ACRA Bizfile+](/README.md#https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)<p align="justify">The PDPA is a complaints based regime, where the PDPC is obligated to follow up and investigate on every complaint made.</p>
 
 ```
 Articles are easy to read.
