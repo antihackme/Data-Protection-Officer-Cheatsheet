@@ -63,7 +63,7 @@
 ## COVID-19 Related Phishing
 [Global COVID-19 Related Phishing Campaign by North Korean Operatives Lazarus Group Exposed by Cyfirma Researchers](https://www.privacy.com.sg/covid/global-covid-19-related-phishing-campaign-by-north-korean-operatives-lazarus-group-exposed-by-cyfirma-researchers/)<p align="justify">he hacking campaign involved using phishing emails under the guise of local authorities in charge of dispensing government-funded Covid-19 support initiatives. </p>
 
-# PDPA Compliance Check | <img width="100" src="https://www.antihack.me/public/demoassets/images/logo.png" alt="antihack">
+# PDPA Compliance Check | <img width="100" src="https://zetc0de.github.io/images/bugbounty/antihack/logo.png" alt="antihack">
 [FREE! PDPA Compliance Check](https://www.privacy.com.sg/resources/free-pdpa-compliance-checkup/)<p align="justify">Take a 3 minutes test to view the results of your PDPA compliance status and find out if your organization is at risk of suffering a data breach.</p>
 
 
