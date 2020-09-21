@@ -1,4 +1,4 @@
-# Data Protection Cheat Sheet | <img width="100" src="https://www.antihack.me/public/demoassets/images/logo.png" alt="antihack">
+# Data Protection Cheat Sheet | <img width="100" src="https://zetc0de.github.io/images/bugbounty/antihack/logo.png" alt="antihack">
 
 
 <p align="justify">The Personal Data Protection Act (2012) is Singapore’s data protection law governing the collection, use and disclosure of personal data belonging to individuals.  Section 11 of the Act states that an organization shall designate at least one individual, known as the Data Protection Officer, to be responsible for ensuring compliance with the Act, and to make available to the public the business contact information (BCI) of this person(s).</p>
