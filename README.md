@@ -29,6 +29,7 @@
 * [FREE! PDPA Singapore Checklist 2020](https://www.privacy.com.sg/resources/pdpa-singapore-checklist/)
 * [FREE! Guide For Appointing A Data Protection Officer (2020)](https://www.privacy.com.sg/resources/appointing-a-data-protection-officer/)
 * [How to Protect Your Private Photos, Videos, and Information from Online Leaks](https://www.privacy.com.sg/cybersecurity/how-to-protect-your-private-photos-videos-and-information-from-online-leaks/)
+* [Free Privacy Policy Compliance Review](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
 
 # Privacy Policy
 
@@ -53,7 +54,7 @@
 * [3 Easy Ways for Hard Disk Recycling Protecting Businesses](https://www.privacy.com.sg/resources/3-easy-steps-hard-disk-recycling/)
 * [High Severity Vulnerabilities in Cisco Webex Meetings Desktop Application](https://www.privacy.com.sg/softwareupdates/high-severity-vulnerabilities-in-cisco-webex-meetings-desktop-application/)
 * [‘Hey Siri, I’m getting pulled over’: iPhone Feature Will Record Police Interaction, Send Location](https://www.privacy.com.sg/softwareupdates/hey-siri-im-getting-pulled-over-iphone-feature-will-record-police-interaction-send-location/)
-* [Free Privacy Policy Compliance Review](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
+
 
 # COVID-19 and The New Normal
 
