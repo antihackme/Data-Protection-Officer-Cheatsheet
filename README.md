@@ -57,6 +57,31 @@
 * [6 Ways to Protect Your Business From Employee Data Theft](https://www.privacy.com.sg/resources/protect-business-employee-data-theft/)
 * [The 6 Types of Shredder Security Levels: Advantage Business Equipment](https://www.privacy.com.sg/resources/6-shredder-security-levels-equipment/)
 * [The Importance of Data Protection Management System (DPMS)](https://www.privacy.com.sg/resources/data-protection-management-system/)
+* [4 Major Guidelines of Data Protection Employee Rights](https://www.privacy.com.sg/resources/4-tip-data-protection-employee-rights/)
+* [12 Damaging Consequences of Data Breach](https://www.privacy.com.sg/resources/12-damage-consequences-of-data-breach/)
+* [What Is PDPA And What Are The 5 Things You Should Know About](https://www.privacy.com.sg/resources/what-is-pdpa-and-what-you-should-know/)
+* [The Competency Framework: A Guide for Managers and Staff](https://www.privacy.com.sg/resources/the-competency-framework-a-guide/)
+* [Personal Data Protection Act Australia](https://www.privacy.com.sg/resources/personal-data-protection-act-australia/)
+* [AI Auditing Framework: Draft Guidance for Organizations](https://www.privacy.com.sg/resources/ai-auditing-framework-guidance-to-org/)
+* [How to Make Data Protection Addendum Template in Simple Way](https://www.privacy.com.sg/resources/data-protection-addendum-template/)
+* [Top 3 Simple Data Backup Singapore and Recovery Methods](https://www.privacy.com.sg/resources/data-backup-singapore-recovery-method/)
+* [What is Pseudonymisation: 5 Techniques and Its Best Practices](https://www.privacy.com.sg/resources/what-is-pseudonymisation/)
+* [5 Simple Instructions on How to Access Request Form PDF](https://www.privacy.com.sg/resources/5-steps-to-access-request-form-pdf/)
+* [Unsolicited Electronic Messages Act Means for Businesses](https://www.privacy.com.sg/resources/unsolicited-electronic-messages-act/)
+* [Document Shredding Services for Commercial Document Destruction](https://www.privacy.com.sg/resources/document-shredding-services/)
+* [Top 4 Advantages Of Opting WordPress Developer Singapore](https://www.privacy.com.sg/resources/top-4-wordpress-developer-singapore/)
+* [4 Easy Steps To Create Privacy Management Plan For Business](https://www.privacy.com.sg/resources/privacy-management-plan-for-business/)
+* [What Is Governance Structure: Fundamentals for Gov’t Success](https://www.privacy.com.sg/resources/what-is-governance-structure-success/)
+* [The 12 Important Details for Employment Contract Template](https://www.privacy.com.sg/resources/12-employment-contract-template/)
+* [Is it Illegal to Email Someone Without Their Permission?](https://www.privacy.com.sg/resources/email-someone-without-permission/)
+* [Top 11 Ultimate Cold Calling Guidelines To Boost Your Sales](https://www.privacy.com.sg/resources/11-ultimate-cold-calling-guidelines/)
+* [IT Equipment Disposal Singapore and Recycle Services](https://www.privacy.com.sg/resources/it-equipment-disposal-singapore/)
+
+
+
+
+
+
 
 # Privacy Policy
 
