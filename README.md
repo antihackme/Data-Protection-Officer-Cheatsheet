@@ -31,6 +31,7 @@
 * [How to Protect Your Private Photos, Videos, and Information from Online Leaks](https://www.privacy.com.sg/cybersecurity/how-to-protect-your-private-photos-videos-and-information-from-online-leaks/)
 * [Free Privacy Policy Compliance Review](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
 * [7 Phases Of Data Life Cycle Every Business Must Be Informed](https://www.privacy.com.sg/resources/7-phases-of-data-life-cycle-business/)
+* [Top 10 Reliable IT Companies in Singapore](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
 # Privacy Policy
 
 ## Compliant Privacy Policy
