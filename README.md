@@ -40,6 +40,19 @@
 * [Cross Border Data Privacy- A Guide for Singapore Businesses](https://www.privacy.com.sg/resources/cross-border-data-privacy-singapore/)
 * [How to Register Data Protection Officer (DPO) in ACRA Bizfile+](https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)
 * [Top 10 Main Reasons for Outsource Website Development](https://www.privacy.com.sg/resources/top-10-outsource-website-development/)
+* [Understanding The Data Intermediary In Data Protection](https://www.privacy.com.sg/resources/understanding-the-data-intermediary/)
+* [How Being Data Protection Trained Can Help With Job Retention](https://www.privacy.com.sg/resources/data-protection-trained-job-retention/)
+* [Top 25 Data Protection Statistics That You Must Be Informed](https://www.privacy.com.sg/resources/25-vital-data-protection-statistics/)
+* [Completed DPIA Example: 7 Simple Helpful Steps To Create](https://www.privacy.com.sg/resources/7-steps-to-completed-dpia-example/)
+* [12 Benefits of Data Protection for Business Success](https://www.privacy.com.sg/resources/12-benefits-of-data-protection/)
+* [Privacy policy template important tips for your business](https://www.privacy.com.sg/resources/privacy-policy-template-tips-business/)
+* [4 easy guides to data breach assessment](https://www.privacy.com.sg/resources/4-easy-guides-data-breach-assessment/)
+* [7 Client Data Protection Tips to Keep Customers Safe](https://www.privacy.com.sg/resources/7-client-data-protection-to-keep-safe/)
+* [9 Policies For Security Procedures Examples](https://www.privacy.com.sg/resources/9-rules-security-procedures-examples/)
+* [4 Steps to Data Protection Certification For Your Business](https://www.privacy.com.sg/resources/4-steps-data-protection-certification/)
+
+
+
 # Privacy Policy
 
 ## Compliant Privacy Policy
