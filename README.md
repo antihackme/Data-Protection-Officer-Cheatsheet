@@ -50,8 +50,13 @@
 * [7 Client Data Protection Tips to Keep Customers Safe](https://www.privacy.com.sg/resources/7-client-data-protection-to-keep-safe/)
 * [9 Policies For Security Procedures Examples](https://www.privacy.com.sg/resources/9-rules-security-procedures-examples/)
 * [4 Steps to Data Protection Certification For Your Business](https://www.privacy.com.sg/resources/4-steps-data-protection-certification/)
-
-
+* [The 7 Fundamental Guide on SOP for Social Media Marketing](https://www.privacy.com.sg/resources/sop-for-social-media-marketing/)
+* [7 Principles of Personal Data Processing](https://www.privacy.com.sg/resources/principles-of-personal-data-processing/)
+* [10 Simple and Useful Tips On Agreement Drafting Services](https://www.privacy.com.sg/resources/10-tip-on-agreement-drafting-services/)
+* [Top 5 Impact of Data Loss on Business](https://www.privacy.com.sg/resources/top-5-impact-of-data-loss-on-business/)
+* [6 Ways to Protect Your Business From Employee Data Theft](https://www.privacy.com.sg/resources/protect-business-employee-data-theft/)
+* [The 6 Types of Shredder Security Levels: Advantage Business Equipment](https://www.privacy.com.sg/resources/6-shredder-security-levels-equipment/)
+* [The Importance of Data Protection Management System (DPMS)](https://www.privacy.com.sg/resources/data-protection-management-system/)
 
 # Privacy Policy
 
