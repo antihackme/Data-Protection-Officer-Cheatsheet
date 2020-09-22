@@ -32,6 +32,9 @@
 * [Free Privacy Policy Compliance Review](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
 * [7 Phases Of Data Life Cycle Every Business Must Be Informed](https://www.privacy.com.sg/resources/7-phases-of-data-life-cycle-business/)
 * [Top 10 Reliable IT Companies in Singapore](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
+* [Top 9 Proper Guidelines on How to Make Data Transfer Agreement Template](https://www.privacy.com.sg/resources/step-data-transfer-agreement-template/)
+* [5 ways on how to destroy documents securely to prevent data breach](https://www.privacy.com.sg/resources/5-way-how-to-destroy-documents-proper/)
+* [7 Useful Tools On How To Find Company Contact Information](https://www.privacy.com.sg/resources/how-to-find-company-contact-information/)
 # Privacy Policy
 
 ## Compliant Privacy Policy
