@@ -35,6 +35,11 @@
 * [Top 9 Proper Guidelines on How to Make Data Transfer Agreement Template](https://www.privacy.com.sg/resources/step-data-transfer-agreement-template/)
 * [5 ways on how to destroy documents securely to prevent data breach](https://www.privacy.com.sg/resources/5-way-how-to-destroy-documents-proper/)
 * [7 Useful Tools On How To Find Company Contact Information](https://www.privacy.com.sg/resources/how-to-find-company-contact-information/)
+* [3 Easy Ways for Hard Disk Recycling Protecting Businesses](https://www.privacy.com.sg/resources/3-easy-steps-hard-disk-recycling/)
+* [How to Write an Effective Privacy Statement for Websites](https://www.privacy.com.sg/resources/write-privacy-statement-for-website/)
+* [Cross Border Data Privacy- A Guide for Singapore Businesses](https://www.privacy.com.sg/resources/cross-border-data-privacy-singapore/)
+* [How to Register Data Protection Officer (DPO) in ACRA Bizfile+](https://www.privacy.com.sg/resources/register-data-protection-officer-dpo/)
+* [Top 10 Main Reasons for Outsource Website Development](https://www.privacy.com.sg/resources/top-10-outsource-website-development/)
 # Privacy Policy
 
 ## Compliant Privacy Policy
