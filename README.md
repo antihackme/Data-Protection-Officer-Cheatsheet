@@ -30,7 +30,7 @@
 * [FREE! Guide For Appointing A Data Protection Officer (2020)](https://www.privacy.com.sg/resources/appointing-a-data-protection-officer/)
 * [How to Protect Your Private Photos, Videos, and Information from Online Leaks](https://www.privacy.com.sg/cybersecurity/how-to-protect-your-private-photos-videos-and-information-from-online-leaks/)
 * [Free Privacy Policy Compliance Review](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
-
+* [7 Phases Of Data Life Cycle Every Business Must Be Informed](https://www.privacy.com.sg/resources/7-phases-of-data-life-cycle-business/)
 # Privacy Policy
 
 ## Compliant Privacy Policy
