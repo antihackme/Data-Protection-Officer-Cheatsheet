@@ -76,6 +76,37 @@
 * [Is it Illegal to Email Someone Without Their Permission?](https://www.privacy.com.sg/resources/email-someone-without-permission/)
 * [Top 11 Ultimate Cold Calling Guidelines To Boost Your Sales](https://www.privacy.com.sg/resources/11-ultimate-cold-calling-guidelines/)
 * [IT Equipment Disposal Singapore and Recycle Services](https://www.privacy.com.sg/resources/it-equipment-disposal-singapore/)
+* [Management Training PDF for Effective Managers and Leaders](https://www.privacy.com.sg/resources/management-training-managersleaders/)
+* [PDPA Laws And Regulations; A Systematic Guidelines In Singapore](https://www.privacy.com.sg/resources/pdpa-laws-and-regulations-guidelines/)
+* [PDPA Meaning: Know Its Big Advantages In Businesses](https://www.privacy.com.sg/resources/pdpa-meaning-know-its-big-advantages/)
+* [Do Not Call Registry Penalty: Important Tips To Consider](https://www.privacy.com.sg/resources/do-not-call-registry-penalty-tips/)
+* [Facts About Accountability PDF That You Need to Know About](https://www.privacy.com.sg/resources/facts-about-accountability-pdf/)
+* [5 Brief Concepts Between Data Protection Directive vs GDPR](https://www.privacy.com.sg/resources/data-protection-directive-vs-gdpr/)
+* [Top 10 Best Freelance Testing Websites That Will Pay You](https://www.privacy.com.sg/resources/top10-best-freelance-testing-websites/)
+* [PDP Act (Personal Data Protection Act) Laws and Regulation](https://www.privacy.com.sg/resources/pdp-act-personal-data-protection-act/)
+* [What Does Resolution Of Data Really Means](https://www.privacy.com.sg/resources/resolution-of-data-really-means/)
+* [Top 10 Data Protection Cases That You Must Know About](https://www.privacy.com.sg/resources/10-data-protection-cases-must-know/)
+* [Unbelievable Facts About NRIC Check Digit Algorithm](https://www.privacy.com.sg/resources/facts-nric-check-digit-algorithm/)
+* [Top 5 Importance Of Website Maintenance Singapore](https://www.privacy.com.sg/resources/5-value-website-maintenance-singapore/)
+* [13 Special Skills To Become a Front End Developer Singapore](https://www.privacy.com.sg/resources/13skill-front-end-developer-singapore/)
+* [Intrusion Into Privacy All About Law And Legal Definition](https://www.privacy.com.sg/resources/intrusion-into-privacy-law-and-legal/)
+* [New Data Protection Laws Australia: How Implementation Works](https://www.privacy.com.sg/resources/new-data-protection-laws-australia/)
+* [Shred It Singapore For Commercial Document Destruction](https://www.privacy.com.sg/resources/shred-it-singapore-doc-destruction/)
+* [How To Make Effective Purchase Order Template Singapore](https://www.privacy.com.sg/resources/purchase-order-template-singapore/)
+* [NDA Data Protection: The Importance, Its Meaning And Laws](https://www.privacy.com.sg/resources/nda-data-protection-the-importance/)
+* [5 Best Practices About Information Retention For Businesses](https://www.privacy.com.sg/resources/information-retention-help-businesses/)
+* [Employment Application Template: What Information Required](https://www.privacy.com.sg/resources/employment-application-template/)
+* [Data Protection Trustmark Certification: Business Advantage](https://www.privacy.com.sg/resources/data-protection-trustmark-certification/)
+* [Data Anonymisation: Managing Personal Data Protection Risk](https://www.privacy.com.sg/resources/data-anonymisation-managing-pdp-risk/)
+* [Intrusion Into Privacy All About Law And Legal Definition](https://www.privacy.com.sg/resources/intrusion-into-privacy-law-and-legal/)
+* [Top 10 Exceptional And Creative Website Design Guidelines](https://www.privacy.com.sg/resources/top-10-nice-website-design-guidelines/)
+* [Data Protection Officer Duties And Responsibilities](https://www.privacy.com.sg/resources/data-protection-officer-duties-respon/)
+* [8 Simple Ways To Improve Your Website Protection](https://www.privacy.com.sg/resources/improve-your-website-protection/)
+* [6 Simple Guides On PDPA Clause For Agreements Of Personal Data](https://www.privacy.com.sg/resources/6-guide-on-pdpa-clause-for-agreements/)
+
+
+
+
 
 
 
