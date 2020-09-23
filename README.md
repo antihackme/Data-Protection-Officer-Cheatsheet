@@ -130,17 +130,36 @@
 * [Basic Info On How Long To Keep Accounting Records In Singapore?](https://www.privacy.com.sg/resources/how-long-to-keep-accounting-records-in-singapore/)
 * [Deemed Consent PDPA: How Do Businesses Comply?](https://www.privacy.com.sg/resources/deemed-consent-pdpa-how-does-comply/)
 * [6 Types Of Document Shredder Machine Singapore Services](https://www.privacy.com.sg/resources/6-type-shredder-machine-singapore/)
-
-
-
-
-
-
-
-
-
-
-
+* [5 Self Assessment Tools To Find The Right Professional Fit](https://www.privacy.com.sg/resources/5-self-assessment-tools-to-find-right/)
+* [Website Ownership Laws: Your Rights And What It Protects](https://www.privacy.com.sg/resources/website-ownership-laws-your-rights/)
+* [Best Privacy Certification: 3 Simple Steps On How To Achieve](https://www.privacy.com.sg/resources/best-privacy-certification-3-steps/)
+* [Computer Misuse Act Singapore: The Truth And Its Offenses](https://www.privacy.com.sg/resources/computer-misuse-act-singapore-truth/)
+* [Personal Data Websites: 3 Things That You Must Be Informed](https://www.privacy.com.sg/resources/personal-data-websites-3-things-know/)
+* [PDPA For Companies: Compliance Guide For Singapore Business](https://www.privacy.com.sg/resources/pdpa-for-companies-compliance-guide/)
+* [10 Government Data Leaks In Singapore: Prevent Cybersecurity](https://www.privacy.com.sg/resources/10-government-data-leaks-in-singapore/)
+* [How To Anonymised The Data: What Are The Importance Of This?](https://www.privacy.com.sg/resources/to-anonymised-the-data-its-importance/)
+* [Trusted Data Sharing Framework IMDA Announced In Singapore](https://www.privacy.com.sg/resources/trusted-data-sharing-framework-imda/)
+* [PDPA Breach Penalty Singapore: How Can Businesses Prevent](https://www.privacy.com.sg/resources/pdpa-breach-penalty-singapore-busines/)
+* [Advisory Guidelines on Key Concepts in the PDPA: 23 Chapters](https://www.privacy.com.sg/resources/advisory-guidelines-on-key-concepts-in-the-pdpa/)
+* [Contract for Service Template: 5 Important Sections](https://www.privacy.com.sg/resources/contract-for-service-template-section/)
+* [Buying a Paper Shredder Singapore: 5 Important Factors to Consider](https://www.privacy.com.sg/resources/buying-paper-shredder-singapore/)
+* [Letter of Consent MOM: Getting the Details Right](https://www.privacy.com.sg/resources/letter-of-consent-mom-getting-details/)
+* [A Look at the Risk Assessment Form Singapore Government Requires](https://www.privacy.com.sg/resources/risk-assessment-form-singapore-government-requires/)
+* [CCTV Law Singapore Edition: Know Your Rights and Responsibilities](https://www.privacy.com.sg/resources/cctv-law-singapore-edition-rights/)
+* [How to Send Mass Email Without Showing Addresses: 2 Great Workarounds](https://www.privacy.com.sg/resources/how-to-send-mass-email-without-showing-addresses/)
+* [How a Smart Contract Audit Works and Why it is Important](https://www.privacy.com.sg/resources/how-smart-contract-audit-works-and-importance/)
+* [Data Centre Regulations Singapore: Does It Help To Progress?](https://www.privacy.com.sg/resources/data-centre-regulations-singaporeinfo/)
+* [What Is A Governance Framework? The Importance And How It Works](https://www.privacy.com.sg/resources/what-is-a-governance-framework-inform/)
+* [Going Beyond DPO Meaning: Ever Heard of Outsourced DPO?](https://www.privacy.com.sg/resources/beyond-dpo-meaning-outsourced-dpo/)
+* [5 Common Sections in an Agreement Form Example](https://www.privacy.com.sg/resources/5-sections-agreement-form-example/)
+* [Limiting Location Data Exposure: 8 Best Practices](https://www.privacy.com.sg/resources/limiting-location-data-exposure-best-practices/)
+* [10 Practical Benefits of Managed IT Services](https://www.privacy.com.sg/resources/10-benefits-of-managed-it-services/)
+* [What is Pentest Report? Here’s A Walk-through](https://www.privacy.com.sg/resources/what-is-pentest-report-a-walk-through/)
+* [The PDPA Data Breach August 2020: A Recap of 8 Alarming Cases](https://www.privacy.com.sg/resources/pdpa-data-breach-august-2020-8-cases/)
+* [How Long Do Employers Keep Employee Records After Termination? 1 Hard Question](https://www.privacy.com.sg/resources/how-long-do-employers-keep-employee-records-after-termination-1-hard-question/)
+* [By Attending This Event You Agree To Be Photographed](https://www.privacy.com.sg/resources/by-attending-this-event-you-agree-to-be-photographed/)
+* [Thinking of Shredding or Burning Paper? Here’s What You Should Know](https://www.privacy.com.sg/resources/thinking-shredding-or-burning-paper/)
+* [What Legislation Exists in Singapore Regarding Data Protection and Security?](https://www.privacy.com.sg/resources/what-legislation-exists-in-singapore-regarding-data-protection-and-security/)
 
 
 
