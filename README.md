@@ -31,6 +31,7 @@
 * [How to Protect Your Private Photos, Videos, and Information from Online Leaks](https://www.privacy.com.sg/cybersecurity/how-to-protect-your-private-photos-videos-and-information-from-online-leaks/)
 * [Free Privacy Policy Compliance Review](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
 * [7 Phases Of Data Life Cycle Every Business Must Be Informed](https://www.privacy.com.sg/resources/7-phases-of-data-life-cycle-business/)
+* [5 Simple Ways On How To Delete Security Camera Footage](https://www.privacy.com.sg/resources/how-to-delete-security-camera-footage/)
 * [Top 10 Reliable IT Companies in Singapore](https://www.privacy.com.sg/resources/free-privacy-policy-review/)
 * [Top 9 Proper Guidelines on How to Make Data Transfer Agreement Template](https://www.privacy.com.sg/resources/step-data-transfer-agreement-template/)
 * [5 ways on how to destroy documents securely to prevent data breach](https://www.privacy.com.sg/resources/5-way-how-to-destroy-documents-proper/)
@@ -103,6 +104,47 @@
 * [Data Protection Officer Duties And Responsibilities](https://www.privacy.com.sg/resources/data-protection-officer-duties-respon/)
 * [8 Simple Ways To Improve Your Website Protection](https://www.privacy.com.sg/resources/improve-your-website-protection/)
 * [6 Simple Guides On PDPA Clause For Agreements Of Personal Data](https://www.privacy.com.sg/resources/6-guide-on-pdpa-clause-for-agreements/)
+* [The Top 10 Primary GDPR Requirements PDF To Secure Business](https://www.privacy.com.sg/resources/top-10-primary-gdpr-requirements-pdf/)
+* [MAS Technology Risk Management Guidelines](https://www.privacy.com.sg/resources/mas-technology-risk-management-guidelines/)
+* [How PII Data Works In Businesses And Its Advantages](https://www.privacy.com.sg/resources/how-pii-data-works-in-businesses/)
+* [How To Check Data Breach And How Can We Prevent It](https://www.privacy.com.sg/resources/how-to-check-data-breach-prevent-it/)
+* [Top 8 Main PDPA Obligations To Boost And Secure Your Business](https://www.privacy.com.sg/resources/top-8-main-pdpa-obligations-to-boost/)
+* [5 Tips In Using Assessment Tools To A Successful Businesses](https://www.privacy.com.sg/resources/5-easy-tips-in-using-assessment-tools/)
+* [10 Principles On How To Build A Good Governance Model](https://www.privacy.com.sg/resources/10-principles-good-governance-model/)
+* [The Importance Of DPIA And Its 3 Types Of Processing](https://www.privacy.com.sg/resources/the-importance-of-dpia-and-its-3-type/)
+* [Does Personal Data Market About To Become The Next Big Thing](https://www.privacy.com.sg/resources/does-personal-data-market-big-thing/)
+* [Data Storage Security Standards: What Storage Professionals Need to Know](https://www.privacy.com.sg/resources/data-storage-security-standards-must/)
+* [IT Governance Framework PDF Best Practices And Guidelines](https://www.privacy.com.sg/resources/it-governance-framework-pdf-best/)
+* [Steps On How To Create Complain About Telemarketing Calls](https://www.privacy.com.sg/resources/complain-about-telemarketing-calls/)
+* [EU GDPR Articles: Key For Business Security And Success](https://www.privacy.com.sg/resources/eu-gdpr-articles-key-for-business/)
+* [7 Simple Tips On How To Create A Good Business Card Data](https://www.privacy.com.sg/resources/business-card-data-7-simple-good-tips/)
+* [How Bank Disclosure Of Customer Information Work For Security](https://www.privacy.com.sg/resources/bank-disclosure-of-customer-information/)
+* [Data Protection Framework: Practical Guidance for Businesses](https://www.privacy.com.sg/resources/data-protection-framework-practical/)
+* [Data Protection Authority GDPR: Everything You Need To Know](https://www.privacy.com.sg/resources/what-data-protection-authority-gdpr/)
+* [The Top 10 Best And Trusted List Of Lawyers In Singapore](https://www.privacy.com.sg/resources/top-10-list-of-lawyers-in-singapore/)
+* [The Importance Of Knowing Personal Data Protection Regulations](https://www.privacy.com.sg/resources/personal-data-protection-regulations/)
+* [The Scope Of Singapore Privacy: How We Use It In A Right Way](https://www.privacy.com.sg/resources/scope-of-singapore-privacy-how-to-use/)
+* [10 Best, Secured And Trusted Disposal Contractor In Singapore](https://www.privacy.com.sg/resources/10-disposal-contractor-in-singapore/)
+* [10 Tips For Drafting Key Terms In A Service Agreement](https://www.privacy.com.sg/resources/10tips-for-in-a-service-agreement/)
+* [How To Make A PDPC Complaint: With Its Importance And Impact](https://www.privacy.com.sg/resources/pdpc-complaint-importance-and-impact/)
+* [Basic Info On How Long To Keep Accounting Records In Singapore?](https://www.privacy.com.sg/resources/how-long-to-keep-accounting-records-in-singapore/)
+* [Deemed Consent PDPA: How Do Businesses Comply?](https://www.privacy.com.sg/resources/deemed-consent-pdpa-how-does-comply/)
+* [6 Types Of Document Shredder Machine Singapore Services](https://www.privacy.com.sg/resources/6-type-shredder-machine-singapore/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,7 +179,7 @@
 * [3 Easy Ways for Hard Disk Recycling Protecting Businesses](https://www.privacy.com.sg/resources/3-easy-steps-hard-disk-recycling/)
 * [High Severity Vulnerabilities in Cisco Webex Meetings Desktop Application](https://www.privacy.com.sg/softwareupdates/high-severity-vulnerabilities-in-cisco-webex-meetings-desktop-application/)
 * [‘Hey Siri, I’m getting pulled over’: iPhone Feature Will Record Police Interaction, Send Location](https://www.privacy.com.sg/softwareupdates/hey-siri-im-getting-pulled-over-iphone-feature-will-record-police-interaction-send-location/)
-* [5 Simple Ways On How To Delete Security Camera Footage](https://www.privacy.com.sg/resources/how-to-delete-security-camera-footage/)
+
 
 
 # COVID-19 and The New Normal
