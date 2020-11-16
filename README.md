@@ -160,6 +160,22 @@
 * [By Attending This Event You Agree To Be Photographed](https://www.privacy.com.sg/resources/by-attending-this-event-you-agree-to-be-photographed/)
 * [Thinking of Shredding or Burning Paper? Here’s What You Should Know](https://www.privacy.com.sg/resources/thinking-shredding-or-burning-paper/)
 * [What Legislation Exists in Singapore Regarding Data Protection and Security?](https://www.privacy.com.sg/resources/what-legislation-exists-in-singapore-regarding-data-protection-and-security/)
+* [Advisory Guidelines on Key Concepts in the PDPA: 23 Chapters](https://www.privacy.com.sg/resources/advisory-guidelines-on-key-concepts-in-the-pdpa/)
+* [Contract for Service Template: 5 Important Sections](https://www.privacy.com.sg/resources/contract-for-service-template-section/)
+* [Buying a Paper Shredder Singapore: 5 Important Factors to Consider](https://www.privacy.com.sg/resources/buying-paper-shredder-singapore/)
+* [Letter of Consent MOM: Getting the Details Right](https://www.privacy.com.sg/resources/letter-of-consent-mom-getting-details/)
+* [10 Practical Benefits of Managed IT Services](https://www.privacy.com.sg/resources/10-benefits-of-managed-it-services/)
+* [Limiting Location Data Exposure: 8 Best Practices](https://www.privacy.com.sg/resources/limiting-location-data-exposure-best-practices/)
+* [5 Common Sections in an Agreement Form Example](https://www.privacy.com.sg/resources/5-sections-agreement-form-example/)
+* [Going Beyond DPO Meaning: Ever Heard of Outsourced DPO?](https://www.privacy.com.sg/resources/beyond-dpo-meaning-outsourced-dpo/)
+* [How Formidable is Singapore Cybersecurity Masterplan 2020?](https://www.privacy.com.sg/resources/singapore-cybersecurity-masterplan-2020/)
+* [How To Secure Your WiFi Camera: 4 Points To Consider](https://www.privacy.com.sg/resources/how-to-secure-your-wifi-camera/)
+* [15 Best Tools For Your Windows 10 Privacy Settings Setup](https://www.privacy.com.sg/resources/windows-10-privacy-settings-setup/)
+* [How To Prevent WhatsApp Hack: 7 Best Practices](https://www.privacy.com.sg/resources/how-to-prevent-whatsapp-hack-practice/)
+* [The 5 Benefits Of Outsourcing Data Protection Officer Service](https://www.privacy.com.sg/resources/5benefits-outsourced-data-protection-officer-service/)
+* [Key PDPA Amendments 2019/2020 You Should Know](https://www.privacy.com.sg/resources/key-pdpa-amendments-2019-2020-know/)
+
+
 
 
 
