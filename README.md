@@ -6,6 +6,7 @@
 <p align="justify">This page compiles some of the most important and worthy articles and guide to read about Data Protection.</p>
 
 # Contents
+* [Inquire for Services](/README.md#inquire-for-services)
 * [Data Protection](/README.md#data-protection)
 * [Privacy Policy](/README.md#privacy-policy)
 * [Cybersecurity](/README.md#cybersecurity)
