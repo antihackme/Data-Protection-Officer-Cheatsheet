@@ -14,6 +14,12 @@
 
 
 
+# Inquire for Services
+There's a good chance you are a data protection officer or want to outsource a Data Protection Officer. Lucky you! Here are the enquiry pages of Privacy Ninja - Singapore for your data protection needs!
+* [Outsource DPO Package](https://www.privacy.com.sg/outsourced-data-protection-officer-dpo-service/)
+* [Vulnerability Assessment and Penetration Test](https://www.privacy.com.sg/penetration-test/)
+* [Smart Contract Audit](https://www.privacy.com.sg/smart-contract-audit/)
+* [Data Protection Trustmark Readiness Consultancy](https://www.privacy.com.sg/data-protection-trustmark-readiness-consultancy/)
 
 # Data Protection
 
